@@ -1,28 +1,15 @@
-# DevOps-Projects: Where Automation Meets Hilarity
+# Docker Nginx
 
-Greetings, DevOps aficionados! 🚀 Welcome to the DevOps-Projects repository, where I unleash my mad scientist DevOps experiments. Explore the chaos, grab some laughs, and maybe even find something useful!
+Greetings my friend, welcome to this project.
 
-## Table of Contents
+Many of you will think what is this project about. Well, is the creation of a Docker container with a Dockerfile, using the Alpine image as base:
 
-- [Introduction](#introduction)
-- [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Introduction
-
-This repository is my secret lair of DevOps wizardry. From turning servers into party animals to making automation scripts tell dad jokes, I believe that DevOps should not only be efficient but also entertaining. Dive into the projects, and brace yourself for a wild ride!
-
-## Projects
-
-1. [Project: Docker-nginx](./Docker-nginx): First project, go to the middle earth to explore the containerization of the Sauron's webpage.
+![preview](https://github.com/socunzombi/Docker-Nginx/.images/prev.png)
 
 ## Getting Started
 
-This projects are made in linux, and I will not solve you'r problems in other systems (for the moment).
-I've tried so simplify your life, so here you have the steps to enjoy the projecto doing almost nothing:
+This project is made in linux, and I will not solve you'r problems in other systems (aham aham Windows... Sorry for the cough), for the moment, so these are projects to practicing Docker skills.
+I've tried so simplify your life, so here you have the steps to enjoy the project doing almost nothing:
 
 1. Clone or download this project, if you don'k know the spell, here you have it:
 ```bash
@@ -30,9 +17,8 @@ git clone https://github.com/socunzombi/DevOps-Projects
 ```
 2. Use the following magic spells (simply copy and paste the following code in the same terminal you made the previous step):
 ```bash
-cd DevOps-Projects
-chmod +x script.sh
-./script.sh
+chmod +x docker-script.sh
+./docker-script.sh
 ```
 3. Greetings my friend, you have been hacked.
 4. The previous step was a joke, there is nothing bad in those projects..... or maybe yes...
@@ -47,6 +33,8 @@ Feel like adding a punchline or two? Contributions are more than welcome!
 4. Push to your branch: `git push origin feature-standup`.
 5. Open a pull request.
 6. Wait untill my anser, maybe takes 1 day, maybe 2 breackfast, maybe 1 light year.
+
+Please, if you have some suggestions or improvements for this project, tell it, I'm here to learn 😉
 
 ## License
 

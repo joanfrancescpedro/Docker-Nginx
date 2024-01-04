@@ -4,6 +4,7 @@ IMAGENAME="socunzombi-nginx-img"
 IMAGETAG="1.0"
 CONTAINERNAME="socunzombi-nginx-container"
 
+echo ""
 echo "First, let's check that you don't have the container running."
 echo ""
 if [[ $(docker ps --quiet --filter name=$CONTAINERNAME) ]]; then
