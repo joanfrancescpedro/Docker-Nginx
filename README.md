@@ -13,7 +13,7 @@ I've tried so simplify your life, so here you have the steps to enjoy the projec
 
 1. Clone or download this project, if you don'k know the spell, here you have it:
 ```bash
-git clone https://github.com/socunzombi/DevOps-Projects
+git clone https://github.com/socunzombi/Docker-Nginx
 ```
 2. Use the following magic spells (simply copy and paste the following code in the same terminal you made the previous step):
 ```bash
