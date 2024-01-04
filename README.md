@@ -4,7 +4,7 @@ Greetings my friend, welcome to this project.
 
 Many of you will think what is this project about. Well, is the creation of a Docker container with a Dockerfile, using the Alpine image as base:
 
-![preview](https://github.com/socunzombi/Docker-Nginx/.images/prev.png)
+![preview](/.images/prev.png)
 
 ## Getting Started
 
